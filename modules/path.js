@@ -1,3 +1,4 @@
+// Módulos nativos
 const path = require("path");
 
 // Apenas o nome do arquivo atual
